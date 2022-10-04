@@ -1,8 +1,9 @@
-###  👋 Olá sou Sayonnara!
+##  👋 Olá sou Sayonnara!
+
+#### Não importa a dimensão do problema, porque Deus sempre irá me motivar a superar qualquer desafio.
 
 - 🔭 Procurando um Estágio...
 - 🌱 Estudante de ADS no IFSP-jcr  ...
-- 💬  ...
 - 📫 Contate-me e-mail: sayonnara.ns@gmail.com
 
 <div style="display: inline_block"><br>
