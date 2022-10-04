@@ -19,11 +19,10 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/rsayonnara/sayonnara/blob/output/github-contribution-grid-snake.svg)
  ##
 </div>
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/Sayonnara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayonnara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayonnara&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sayonnara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayonnara&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sayonnara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
