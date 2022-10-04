@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 Contate-me e-mail: sayonnara.ns@gmail.com
 - 😄 Pronouns: ...
-
+##
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,11 +17,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sayonnara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rsayonnara/sayonnara/blob/output/github-contribution-grid-snake.svg)
- 
+ ##
 </div>
-
-
-##
 
 <div align="center">
   <a href="https://github.com/Sayonnara">
