@@ -6,6 +6,8 @@
 - 🌱 Estudante de ADS do 4º Semestre no IFSP-jcr ...
 - 📫 Contate-me e-mail: sayonnara.ns@gmail.com
 
+![header]()
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Sayonnara-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sayonnara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
