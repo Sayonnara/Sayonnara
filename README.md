@@ -5,7 +5,7 @@
 - 🔭 Procuro um Estágio...
 - 🌱 Estudante de ADS do 4º Semestre no IFSP-jcr ...
 - 📫 Contate-me e-mail: sayonnara.ns@gmail.com
-- linkedin.com/in/sayonnara-seixas-662570191
+
 
 ![header](7f2487e9bcf3b76eab3e9277f7beb6af.gif)
 
