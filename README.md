@@ -1,4 +1,4 @@
-#  👋 Olá sou Sayonnara!
+#  👋 Olá sou a Sayonnara!
 
 ## Não importa a dimensão do problema, porque Deus sempre irá me motivar a superar qualquer desafio.
 
