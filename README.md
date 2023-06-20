@@ -8,7 +8,7 @@
 
 
 
-<img src="7f2487e9bcf3b76eab3e9277f7beb6af.gif" width="250">
+<img src="7f2487e9bcf3b76eab3e9277f7beb6af.gif" width="150">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sayonnara-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
