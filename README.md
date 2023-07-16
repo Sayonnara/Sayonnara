@@ -4,7 +4,7 @@
 
 - 🔭 Procuro um Estágio...
 - 🌱 Estudante de ADS no IFSP-JCR ...
-- 📫 Contate-me e-mail: sayonnara.tech@gmail.com
+- 📫  sayonnara.tech@gmail.com
 
 
 
