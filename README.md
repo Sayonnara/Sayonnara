@@ -1,4 +1,5 @@
-#  👋 Olá sou a Sayonnara!
+#   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=fc0859&width=435&lines=Olá!Me+chamo+Sayonnara+Seixas+e+sou+dev.;Sejam+bem+vindo+ao+meu+GhitHub)](https://git.io/typing-svg)
 
 ## Não importa a dimensão do problema, porque Deus sempre irá me motivar a superar qualquer desafio.
 
@@ -9,14 +10,40 @@
 
 
 
-Amante da Tecnologia
+## Amante da Tecnologia :robot:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Sayonnara-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sayonnara-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sayonnara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sayonnara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sayonnara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sayonnara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="Sayonnara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carlos-VS-Code" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">         
+<img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">   
+<img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+<img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="Node-Js" height="30" width="30" src="https://pluspng.com/img-png/nodejs-png--400.png">
+<img align="center" alt="git"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" alt="github"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img align="center" alt="bootstrap" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="bootstrap" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+<img align="center" alt="figma" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+<img align="center" alt="angularjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="npm" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+<img align="center" alt="Carlos-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Carlos-word-press" height="30" width="30" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png">
+<img align="center" alt="discordjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
+<br><br>
+<img align="center" alt="Carlos-Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
+<img align="center" alt="Carlos-Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
+<img align="center" alt="Carlos-Excel"   height="30" width="30" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png">
+<img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+<img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+<img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
+<img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+</div>
+ <br>
+
+
  
 </div>
 
