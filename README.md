@@ -1,5 +1,5 @@
 #   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=fc0859&width=435&lines=Olá!Me+chamo+Sayonnara+Seixas+e+sou+desenvolvedora.;Sejam+bem+vindo+ao+meu+GhitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=fc0859&width=435&lines=Olá!Me+chamo+Sayonnara+e+sou+desenvolvedora.;Sejam+bem+vindo+ao+meu+GhitHub)](https://git.io/typing-svg)
 
 ## Não importa a dimensão do problema, porque Deus sempre irá me motivar a superar qualquer desafio.
 
