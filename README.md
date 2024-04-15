@@ -1,6 +1,10 @@
 #   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=fc0859&width=435&lines=Olá!Me+chamo+Sayonnara+e+sou+dev.;Sejam+bem+vindo+ao+meu+GhitHub)](https://git.io/typing-svg)
 
+<p align ="center">
+  <img width = "300" height = "300" src =""
+</p>
+
 ## Não importa a dimensão do problema, porque Deus sempre irá me motivar a superar qualquer desafio.
 
 - 🔭 Procuro um Estágio...
