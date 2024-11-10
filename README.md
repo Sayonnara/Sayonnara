@@ -1,3 +1,8 @@
+# Meu Projeto
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-95%25-green)
+
 #   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=fc0859&width=435&lines=Olá!Me+chamo+Sayonnara+e+sou+dev.;Seja+bem+vindo+ao+meu+GhitHub)](https://git.io/typing-svg)
 
