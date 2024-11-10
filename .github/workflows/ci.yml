@@ -1,0 +1,38 @@
+name: CI Pipeline
+
+# Define o que aciona o workflow (nesse caso, um push ou pull request para a branch main)
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+# Jobs que o workflow executa
+jobs:
+  build:
+    # Define o ambiente onde o workflow será executado
+    runs-on: ubuntu-latest
+
+    # Passos a serem seguidos no job
+    steps:
+      # Check out do código
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      # Configuração de Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      # Instala dependências
+      - name: Install dependencies
+        run: npm install
+
+      # Roda testes
+      - name: Run tests
+        run: npm test
+
+      # Constrói o projeto
+      - name: Build
+        run: npm run build
