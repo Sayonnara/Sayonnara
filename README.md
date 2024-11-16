@@ -78,6 +78,11 @@
   <a href="https://linkedin.com/in/sayonnara-seixas-662570191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    ![Snake animation](https://github.com/github-contribution-grid-snake.svg)
+
+
+
+   ![Snake animation](https://SEU_NOME_DE_USUÁRIO.github.io/snk/github-contribution-grid-snake.svg)
+
 </div>
 
  
