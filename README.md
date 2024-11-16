@@ -81,7 +81,6 @@
 
 
 
-   ![Snake animation](https://github.com/Sayonnara/Sayonnara/.github.io/snk/github-contribution-grid-snake.svg)
 
 </div>
 
