@@ -81,7 +81,7 @@
 
 
 
-   ![Snake animation](https://SEU_NOME_DE_USUÁRIO.github.io/snk/github-contribution-grid-snake.svg)
+   ![Snake animation](https://Sayonnara.github.io/snk/github-contribution-grid-snake.svg)
 
 </div>
 
