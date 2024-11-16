@@ -77,8 +77,8 @@
   <a href = "mailto:sayonnara.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/sayonnara-seixas-662570191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/github-contribution-grid-snake.svg)
 </div>
- https://github.com/FelRFDev/FelRFDev/blob/output/github-contribution-grid-snake.svg?short_path=10cb31c
+
  
 
