@@ -15,8 +15,8 @@ jobs:
       - name: Run Snake Animation Script
         uses: Platane/snk@master
         with:
-          github_user_name: Sayonnara
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: https://github.com/Sayonnara
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Upload Snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
