@@ -15,7 +15,7 @@ jobs:
       - name: Run Snake Animation Script
         uses: Platane/snk@v2
         with:
-          github_user_name: octocat
+          github_user_name: Sayonnara
           outputs: dist
 
       - name: Upload Snake to GitHub Pages
