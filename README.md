@@ -13,6 +13,7 @@
 </p>
 
 ## Não importa a dimensão do problema, porque Deus sempre irá me motivar a superar qualquer desafio.
+EM CONSTANTE EVOLUÇÃO 
 
 - 🔭 Procurando um Estágio...
 - 🌱 Estudante de ADS no IFSP-JCR ...
