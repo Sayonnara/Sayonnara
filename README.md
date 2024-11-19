@@ -13,7 +13,7 @@
 </p>
 
 ## Não importa a dimensão do problema, porque Deus sempre irá me motivar a superar qualquer desafio.
-EM CONSTANTE EVOLUÇÃO 
+
 
 - 🔭 Procurando um Estágio...
 - 🌱 Estudante de ADS no IFSP-JCR ...
@@ -24,6 +24,8 @@ EM CONSTANTE EVOLUÇÃO
 
 ## Amante da Tecnologia :robot:
 
+ EM CONSTANTE EVOLUÇÃO
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sayonnara-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sayonnara-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -45,7 +47,6 @@ EM CONSTANTE EVOLUÇÃO
 <img align="center" alt="Carlos-word-press" height="30" width="30" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png">
 <img align="center" alt="discordjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
 <br><br>
-<img align="center" alt="Carlos-Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
 <img align="center" alt="Carlos-Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
 <img align="center" alt="Carlos-Excel"   height="30" width="30" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png">
 <img align="center" alt="Carlos-Jupyter" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
