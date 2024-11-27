@@ -18,6 +18,7 @@
 - 🔭 Procurando um Estágio...
 - 🌱 Estudante de ADS no IFSP-JCR ...
 - 📫  sayonnara.tech@gmail.com
+-  https://www.linkedin.com/in/sayonnaradev/
 
 
 
